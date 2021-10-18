@@ -12,6 +12,10 @@ This repo is a clone of https://github.com/nelaturuk/education_pathways
 ![3](https://user-images.githubusercontent.com/90863981/137666107-0303aba9-3a10-4adb-9609-c4bbc56c50a0.PNG)
 ![4](https://user-images.githubusercontent.com/90863981/137666111-37f76451-bf08-4b26-9828-92bb3f9a2a40.PNG)
 
+**Activity 6**
+
+I now think that the tool is a lot more colorful and easier to use. The colors help me easily distinguish between the various elements. This saves me a lot of time when using the tool.
+
 # CARTE Education Pathways
 
 ## Description
