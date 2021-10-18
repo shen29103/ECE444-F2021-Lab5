@@ -2,6 +2,11 @@ Yuanou Shen
 
 This repo is a clone of https://github.com/nelaturuk/education_pathways
 
+**Activity 1**
+
+![1](https://user-images.githubusercontent.com/90863981/137652605-d3ed83ec-54a5-466c-9b95-47fe6f8746ff.PNG)
+
+
 # CARTE Education Pathways
 
 ## Description
